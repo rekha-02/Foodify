@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react";
-import { DataContext } from "../context/userContext";
+import { DataContext } from "../context/UserContext";
 import { PiBowlFoodBold } from "react-icons/pi";
 import { IoSearch } from "react-icons/io5";
 import { FiShoppingBag } from "react-icons/fi";

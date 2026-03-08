@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import Category from "../Category";
 import Card from "../components/Card";
 import { food_items } from "../food";
-import { DataContext } from "../context/userContext";
+import { DataContext } from "../context/UserContext";
 import { useSelector } from "react-redux";
 import { RxCross2 } from "react-icons/rx";
 import { useContext } from "react";
