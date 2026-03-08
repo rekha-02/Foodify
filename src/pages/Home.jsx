@@ -7,7 +7,7 @@ import { useSelector } from "react-redux";
 import { RxCross2 } from "react-icons/rx";
 import { useContext } from "react";
 import { toast } from "react-toastify";
-import Card2 from "../components/card2";
+import Card2 from "../components/Card2";
 
 const Home = () => {
   const { cate, setCate, input, showCart, setShowCart } =
